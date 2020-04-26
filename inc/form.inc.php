@@ -1,6 +1,6 @@
 <div class="container">
     <div class="jumbotron">
-        <h1 class="display-5-info text-info">Temperature Converter</h1>
+        <h1 class="display-5-success text-success">Temperature Converter</h1>
         <hr class="my-2">
         <p>Enter a temperature and select degree measurements from the dropdowns to convert a temperature.</p>
     </div>	
@@ -42,7 +42,7 @@
         
         <div class="row text-center">
             <div class="col-xs-12 col-md-6 mx-auto">
-                <input type="submit" value="Convert" class="btn btn-info btn-lg btn-block"/>   
+                <input type="submit" value="Convert" class="btn btn-success btn-lg btn-block"/>   
             </div>
         <!-- end of third row -->
         </div>
@@ -50,7 +50,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-6">
                 <table class="table table-bordered mt-5 mb-5">
-                    <thead class="table-info">
+                    <thead class="table-success">
                         <tr>
                             <th>Conversion</th>
                             <th>Formulas</th>
@@ -86,7 +86,7 @@
             </div>
             <div class="col-sm-12 col-md-6">
                 <ul class="list-group mt-md-5 mb-5">
-                    <li class="list-group-item list-group-item-action list-group-item-info font-weight-bold">Useful Temperature Facts from <a href="https://www.thoughtco.com/temperature-conversion-formulas-609324">ThoughtCo.com</a></li>
+                    <li class="list-group-item list-group-item-action list-group-item-success font-weight-bold">Useful Temperature Facts from <a href="https://www.thoughtco.com/temperature-conversion-formulas-609324">ThoughtCo.com</a></li>
                     <li class="list-group-item">Celsius and Fahrenheit are the same at -40°.</li>
                     <li class="list-group-item">Water boils at 100°C or 212°F.</li>
                     <li class="list-group-item">Water freezes at 0°C and 32°F.</li>
